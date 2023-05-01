@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maryblessing
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning Dart & Flutter
-- 💞️ I’m looking to collaborate on any meaningful project
+- 👀 I’m interested in Community building
+- 🌱 I’m currently delving into the world of opensource 
+- 💞️ I’m looking to contribute to any impactful project
 - 📫 Reach me on okolieblessing290@gmail.com
   I go wherever my talents take me to...
 
