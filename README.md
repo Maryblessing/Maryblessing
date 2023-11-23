@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maryblessing
+- 👋 Hi, I’m Maryblessing
 - 👀 I’m interested in Community building
-- 🌱 I’m currently delving into the world of opensource 
+- 🌱 I’m currently delving into the world of open source 
 - 💞️ I’m looking to contribute to any impactful project
 - 📫 Reach me on okolieblessing290@gmail.com
   I go wherever my talents take me to...
