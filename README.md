@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maryblessing
-- 👀 I’m interested in Community building
-- 🌱 I’m currently delving into the world of open source 
-- 💞️ I’m looking to contribute to any impactful project
+- 👀 I’m a community designer with 4 years of experience designing community strategies that keeps a community relevant and valuable. My work spans across the EdTech, FinTech, NGO and open source ecosystem. 
+- 🌱 I’m currently delving into the world of data analysis with Python 
+- 💞️ I’m looking to contribute to any impactful projects 
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/ukdevv/
 - I go wherever my talents take me to...
 
