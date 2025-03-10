@@ -3,7 +3,8 @@
 - 🌱 I’m currently delving into the world of data analysis with Python 
 - 💞️ I’m looking to contribute to any impactful projects 
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/ukdevv/
-- I go wherever my talents take me to...
+
+  I go wherever my talents take me to...
 
 <!---
 Maryblessing/Maryblessing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
