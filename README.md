@@ -3,7 +3,7 @@
 - 🌱 I’m currently the Project Manager for Contributor Covenant by the Organization for Ethical Source
 - 💞️ I’m looking to contribute to any impactful projects
 - 💼 Find my professional portfolio [here](https://silken-baron-cae.notion.site/Maryblessing-s-Portfolio-54db6851b53b40bcbc482f2361563e55?pvs=740)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ukdevv/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/maryblessingokolie/)
 
   I go wherever my talents take me to... 
 
