@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=CEA2FD&width=435&lines=I+am+Maryblessing+(aka+MB))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=CEA2FD&width=435&lines=Oi!+I+am+Maryblessing+(aka+MB))](https://git.io/typing-svg)
 
-## Meet me
-- 👋 Oi! I’m Maryblessing
+## Meet me👋
 - 👀 I’m a community designer with 4 years of experience designing community strategies that keep a community relevant and valuable. My work spans across the EdTech, FinTech, NGO, and open source ecosystem. 
 - 🌱 I’m currently the Project Manager for Contributor Covenant by the Organization for Ethical Source
 - 💞️ I’m looking to contribute to any impactful project
